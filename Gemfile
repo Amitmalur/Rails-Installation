@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 
-
+# Removed comments
 gem 'rails', '~> 5.1.7'
 gem 'sqlite3', '< 1.4'
 gem 'puma', '~> 3.7'
